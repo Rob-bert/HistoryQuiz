@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">HistoryQuiz</string>
+    <string name="title">What do you know about history?</string>
+    <string name="name">Enter your name</string>
+    <string name="question1">1. According to Greek mythology, who was the god of wine?</string>
+    <string name="zeus">Zeus</string>
+    <string name="Dionysus">Dionysus</string>
+    <string name="Hades">Hades</string>
+    <string name="Hephaistos">Hephaistos</string>
+    <string name="question2">2. Before the introduction of the euro, what was the name for the basic monetary unit used in the Germany?</string>
+    <string name="Floren">Floren</string>
+    <string name="Gulden">Gulden</string>
+    <string name="Lir">Lir</string>
+    <string name="Mark">Mark</string>
+    <string name="question3">3. What three countries were part of the Axis powers in World War II?</string>
+    <string name="answer1">Germany, Japan, Austria</string>
+    <string name="answer2">Germany, Poland, Japan</string>
+    <string name="answer3">Germany, Japan, Italy</string>
+    <string name="answer4">Germany, Japan, Bulgaria</string>
+    <string name="question4">4. According to Arthurian legend, what was the name of the sword in the stone?</string>
+    <string name="fang">White Fang</string>
+    <string name="Excalibur">Excalibur</string>
+    <string name="stone">Stone Sword</string>
+    <string name="Durendal">Durendal</string>
+    <string name="question5">5. Which countries annexed Poland in 1939?</string>
+    <string name="answer1q5">Germany, USSR, Austria</string>
+    <string name="answer2q5">Germany and Italy</string>
+    <string name="answer3q5">Germany, USSR, Slovakia</string>
+    <string name="answer4q5">Germany, Italy, USSR</string>
+    <string name="submit_score">Your score</string>
+    <string name="reset">Reset Quize</string>
+</resources>
